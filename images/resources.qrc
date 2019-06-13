@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>curriculum.png</file>
+        <file>folder.png</file>
+        <file>link.png</file>
+        <file>login.png</file>
+        <file>mado-el-khouly-347678.jpg</file>
+        <file>man (1).png</file>
+        <file>myresources.qrc</file>
+        <file>refresh.png</file>
+        <file>resources.qrc</file>
+        <file>resume.png</file>
+        <file>twitter-logo.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
